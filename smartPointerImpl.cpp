@@ -52,6 +52,7 @@ public:
 	{ 
 		os << "Counter Value : "
 		<< counter.m_counter << endl; 
+		return os;
 	} 
 
 private: 
@@ -117,6 +118,7 @@ public:
 		os << "Address pointed : "
 		<< sp.get() << endl; 
 		cout << *(sp.m_counter) << endl; 
+		return os;
 	} 
 
 private: 
