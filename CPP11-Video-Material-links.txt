@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=58BrFvjNhWY -> lambda C++ (Functional Programming)
+https://www.youtube.com/watch?v=8Je1W82vwYM
+https://www.youtube.com/watch?v=0xcCNnWEMgs -> Perfect Forwarding
+https://stackoverflow.com/questions/8526598/how-does-stdforward-work -> Perfect Forwarding
